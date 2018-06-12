@@ -15,7 +15,7 @@ public class HomeController {
 
 	@Autowired
 	CarRepository cr;
-	
+	 
 	@RequestMapping("/")
 	public ModelAndView index() {
 
