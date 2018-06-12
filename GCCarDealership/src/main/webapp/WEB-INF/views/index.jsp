@@ -11,9 +11,9 @@
 	integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB"
 	crossorigin="anonymous">
 </head>
-<body>
-	<div class="container">
-		
+<body class="text-center">
+	<div class="container mt-5">
+		<h1>Hello World!</h1>
 	</div>
 
 </body>
